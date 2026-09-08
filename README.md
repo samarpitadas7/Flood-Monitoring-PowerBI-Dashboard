@@ -34,7 +34,7 @@ A short demo video showcasing the dashboard and its interactive features is avai
 
 
 Dashboard Preview
-!Power BI Dashboard(Screenshot(1058).png) 
+!Power BI Dashboard(Screenshot (1058).png) 
 
 📚 Learning
 
