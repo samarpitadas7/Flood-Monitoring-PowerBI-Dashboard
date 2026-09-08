@@ -32,6 +32,10 @@ The dashboard provides an easy way to explore the data through interactive visua
 
 A short demo video showcasing the dashboard and its interactive features is available on my LinkedIn profile.
 
+
+Dashboard Preview
+!Power BI Dashboard(Screenshot(1058).png) 
+
 📚 Learning
 
 Through this project, I strengthened my understanding of:
